@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#97588D;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#532B57;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<rect class="st0" width="512" height="512"/>
+<polygon class="st1" points="256,106 321,143 386,181 386,256 386,331 321,369 256,406 191,369 126,331 126,256 126,181 191,143 "/>
+<polygon class="st2" points="256,406 191,369 126,331 126,256 126,181 191,143 256,106 "/>
+<polygon class="st1" points="256,131 310,162 364,193 364,256 364,319 310,350 256,381 202,350 148,319 148,256 148,193 202,162 "/>
+<path class="st2" d="M306,212c-2,1-50,28-50,28c-1,0-33-18-38-21c-4-2-9-5-13-7c-4-1-9,0-11,3c-3,3-4,5-4,10v60c0,5,0,8,3,11
+	s5,4,11,4v-74l26,15c4,3,8,5,13,7c2,2,4,3,6,4s4,2,7,4c1,0,5-3,6-4c2-1,4-2,7-3l25-15c5-3,9-5,13-8h1c0,0,2-1,3-2l7-4c0,0,2-1,3-2
+	c-1-2-4-4-5-5C313,212,309,211,306,212z"/>
+<path class="st3" d="M308,231c0-2,0-4-1-5c-4,3-8,5-13,8l-25,15c-3,1-5,2-7,3c-1,1-5,4-6,4c-3-2-5-3-7-4s-4-2-6-4c-5-2-9-4-13-7
+	l-26-15c0,1,0,67,0,74c2,1,24,0,26,0c11,0,77,1,78,0c-1-6,0-13,0-19V231z"/>
+<path class="st3" d="M306,212c-1-1-22,0-25,0c-8,0-17,0-25,0c-6,0-49-1-51,0c4,2,9,5,13,7c5,3,37,21,38,21C256,240,304,213,306,212z
+	"/>
+<path class="st2" d="M308,226v74c4,0,7,0,10-2c6-5,4-13,4-20v-49c0-4,1-9-1-11c-1,1-3,2-3,2l-7,4C310,225,308,226,308,226z"/>
+</svg>

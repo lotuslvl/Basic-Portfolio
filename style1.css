@@ -1,0 +1,249 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* LEFT PANEL STYLES */
+
+#left-panel {
+    
+    position:fixed;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    float:left;
+    background: rgb(245, 244, 244); 
+    max-width: 35%;
+    min-width: 300px;
+    height:100%;
+    margin: 0px;
+    padding:0px;
+    z-index:100px;
+
+}
+
+
+#profile {
+    margin-top: 200px;
+    margin-bottom: 60%;
+    margin-left: 15%;
+    margin-right: 15%;
+    width:70%;
+    font-family: Helvetica,Arial,sans-serif;
+
+}
+
+#profile img {
+
+    border-radius: 200px;
+}
+
+h1 {
+    font-size: 2.1em;
+    font-family: 'Raleway', sans-serif;
+    color: #532b57;
+    margin-top: 10px;
+}
+
+h2 {
+     font-size: 1.2em;
+     font-family: 'Raleway', sans-serif;
+     color: #97588d;
+     margin-top: 10px;
+}
+
+h3 {
+    font-size: 1.6em;
+    font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+    font-size: 1.4em;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-size: 1.1em;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 26px;
+    margin-top: 10px;
+    max-width: 500px;
+    margin-bottom: 16px;
+    color: rgb(37, 37, 37); 
+}
+
+#nav {
+
+    margin-bottom: 15px;
+
+}
+
+#nav a{
+
+    margin-right:15px;
+
+}
+
+
+a {
+
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 1.1em;
+    text-decoration: none;
+    padding-top:20px;
+}
+
+a:link {
+    color: #97588d;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #97588d;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #78828c;
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #78828c;
+  }
+
+
+#social-media{
+margin-top:10px;
+
+}
+
+/* RIGHT PANEL STYLES */
+#right-panel {
+    float:left;
+    margin-left:40%;
+    width: 55%;
+    padding:0px;
+    z-index:200px;
+    background-image: url("https://us.123rf.com/450wm/colorvalley/colorvalley1612/colorvalley161200040/69539154-stock-vector-floral-water-lily-vector-line-style.jpg?ver=6") ;
+    background-repeat: no-repeat, repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-size: 300px 100px;
+}
+
+
+#portfolio-content {
+    padding-top: 20px;
+
+}
+.title {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Helvetica,Arial,sans-serif;
+    clear: both;
+    margin-top:20px;
+    }
+
+.title h3 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: .8em;
+    color: #97588d;
+    }
+
+.portfolio-box{
+    clear: both;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    margin-bottom: 25px;
+
+}
+
+
+.portfolio-box img{
+
+  margin-top: 20px;
+  margin-right: 20px;
+  float: left; 
+  max-height: 10%;
+  max-width: 30%;
+  border: 1px solid lightgray;
+
+
+}
+
+.portfolio-info {
+    float:left;
+    margin-top: 50px;
+
+      
+    
+}
+
+#read-more {
+
+    margin-top: 15px;
+}
+
+
+/* About Me */
+
+#about-lotus {
+    float:left;
+
+}
+
+ button {
+    width: 200px;
+    height:50px;
+    border-radius: 10px;
+    background-color:  #532b57;
+    color:white;
+    border: none;
+    margin-top:20px;
+    margin-bottom:20px;
+
+
+}
+
