@@ -395,7 +395,7 @@ input[type=text], select, textarea {
     #right-panel {
         position: relative;
         display: inline-block;
-        width: 100%;
+        width: 95%;
         padding:0px;
         margin-left: 0px;
         padding: 20px;
@@ -410,5 +410,34 @@ input[type=text], select, textarea {
         font-family: Helvetica,Arial,sans-serif;
     
     }
+
+    p {
+        font-size: 1.1em;
+        font-family: 'Quicksand', sans-serif;
+        line-height: 26px;
+        margin-top: 10px;
+        width: 90%;
+        margin-bottom: 16px;
+        color: rgb(78, 77, 77); 
+    }
+
+    .section {
+        margin-bottom: 20px;
+        padding-top: 20px;
+        clear:both;
+        width: 90%;
+    
+    }
+
+
+    .question-box {
+
+        float:left;
+        width: 90%;
+        margin-right: 30px
+    
+    }
+
+
 
   }
